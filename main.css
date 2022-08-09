@@ -23,6 +23,14 @@ h1 {
     width: 70%;
 }
 
+/* .todo-list span {
+    font-size: 30px;
+}
+.todo-list input {
+    transition:0.5s;
+    outline: none; border: 1px solid 00BFFF;
+} */
+
 .right-container {
     margin: 1rem;
 }
